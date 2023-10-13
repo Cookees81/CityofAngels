@@ -71,6 +71,9 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+#Mac Code
+.DS_Store
+
 # PyBuilder
 .pybuilder/
 target/
