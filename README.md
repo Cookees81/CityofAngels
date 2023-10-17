@@ -8,7 +8,7 @@ Prepare data set:
 
 2) removed year 2023 records since it's only up to date of 10-2023
 
-3) remove missing values rows in column Vict Sex, Vict Descent, Premis Cd, Premis Desc
+3) remove missing values rows in column Vict Descent, Premis Desc
 
 4) replace blanks values in column Weapon Used Cd, and Weapon Desc with N/A
 
