@@ -1,8 +1,0 @@
-conda create -n pyviz python=3.10 -y
-conda actvate pyviz
-conda install -c pyviz hvplot geoviews -y
-pip install census
-pip install citipy
-conda list hvplot
-conda list geoviews
-jupyter nootebook
