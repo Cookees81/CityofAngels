@@ -44,6 +44,8 @@ Analysis Of Dataset
 - The very high percentage of child sexual abuse affects females over the age of 13
 - High Burglary count on white population over the age of 65, potentially due to high net worth discrepancy in the LA area between races
 - When it comes to gender, there isn’t a significant difference between crimes focusing on  males and females aside from sexual crimes, which are less frequent
+- Is "Age" a significant factor when it comes to Gender? In order to see if there is a correlation between the crime rate when it comes to age and gender, ages were grouped into ranges, and from there we can deduce the number of cases per age range. Based on this, we can see that crime rates spike for young female adults and then start to decrease as the population gets older. While after turning 21, there tend to be more male cases than females.
+- Based on these graphs, you can see that males and females are about equally at risk of "Assult". When it comes to "Sexual Crimes" you can see that females are a greater target than males but males are greater targets for crimes associated with "Thief and "Vandalism".
 
 ---------------------------------------------------------------
 Import Los Angeles Crime Data set:
