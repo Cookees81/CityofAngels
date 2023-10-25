@@ -8,6 +8,13 @@ Website: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 
 --------------------------------------------------------------
 
+Purpose of Analysis:  To obtain results that are relevant, credible, and useful for the common person when visiting Los Angeles
+--------------------------------------------------------------
+- The overall relative danger between Bureaus 
+- What kinds of crimes are committed to whom, how, when, and where?              
+
+--------------------------------------------------------------
+
 Contributors to Dataset Analysis:
 ---------------------------------------------------------------
 - Thanos Chryssis (github.com/surfaki)
@@ -20,7 +27,7 @@ Contributors to Dataset Analysis:
 ---------------------------------------------------------------
 Analysis Of Dataset
 ---------------------------------------------------------------
-The top 3 committed crime areas are 77th Street, Central, Devonshire
+- The top 3 committed crime areas are 77th Street, Central, Devonshire
 - The highest-density crime areas are Central and Hollywood
 - Crime drop between Mar 2020 and June 2021 aligns with CA Covid restrictions
 - No large difference between male and female victims
