@@ -23,6 +23,12 @@ Contributors to Dataset Analysis:
 - Teresa Salazar (github.com/Cookees81)
 - Steve Islava (github.com/steve_islava)
 
+---------------------------------------------------------------
+
+Link to Presentation Slides
+---------------------------------------------------------------
+https://docs.google.com/presentation/d/1fLlSYXu4PD4XiC3aQXLxK___L2PtKcK5wjj2dz_Y2bU/edit?usp=sharing
+
 
 ---------------------------------------------------------------
 Analysis Of Dataset
