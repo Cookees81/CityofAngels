@@ -122,7 +122,9 @@ Analysis Impact & Limitations:
 ---------------------------------------------------------------
 - Based on our dataset, our team wanted to provide crime statistics in order to identify areas of risk to those who are visiting LA.
 
-- The dataset that was provided had no statistics of the time allocated per case or perpetrator information allowing us to only analyze from a victim’s perspective. 
+- The dataset that was provided had no statistics of the time allocated per case or perpetrator information allowing us to only analyze from a victim’s perspective.
+
+- The dataset does not take into account undocumented crimes which according to the Pew Research Center: "Only 40.9% of violent crimes and 32.5% of household property crimes were reported to authorities."
 
 - Data analysis could be improved by having access to API products that use coordinates in DataBase to plot graphs against census information such as Geocoding.
 
